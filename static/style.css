@@ -1,0 +1,32 @@
+.navbar {
+    background-color: limegreen;
+    vertical-align: baseline;
+    min-height: 0;
+    padding: 10px 0;
+
+}
+
+.navbar .left {
+    text-align: left;
+}
+
+.navbar .right {
+    text-align: right;
+}
+
+.navlink {
+    color: white;
+    margin-right: .5em;
+    margin-left: .5em;
+    vertical-align: baseline;
+
+}
+
+#logo {
+    color: black;
+    font-weight: bold;
+}
+
+.section {
+    margin: 15px 0;
+}
