@@ -3,7 +3,6 @@
     vertical-align: baseline;
     min-height: 0;
     padding: 10px 0;
-
 }
 
 .navbar .left {
@@ -14,12 +13,11 @@
     text-align: right;
 }
 
-.navlink {
-    color: white;
+.navlink a {
     margin-right: .5em;
     margin-left: .5em;
     vertical-align: baseline;
-
+    color: white;
 }
 
 #logo {
